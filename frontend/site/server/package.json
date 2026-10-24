@@ -1,0 +1,10 @@
+{
+  "name": "aquanexus-donation-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Razorpay order creation, signature verification and webhook handling for AquaNexus donations. No dependencies.",
+  "main": "server.js",
+  "engines": { "node": ">=18" },
+  "scripts": { "start": "node server.js", "test": "node test/selftest.js" },
+  "license": "UNLICENSED"
+}

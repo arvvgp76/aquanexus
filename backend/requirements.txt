@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+ultralytics
+huggingface_hub
+python-multipart
+pillow
+python-dotenv
